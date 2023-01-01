@@ -21,7 +21,7 @@
     "express-fileupload": "^1.1.4",
     "react-bootstrap": "^0.32.4",
     "run": "^1.4.0",
-    "webpack": "^4.42.1"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "concurrently": "^4.1.2",
